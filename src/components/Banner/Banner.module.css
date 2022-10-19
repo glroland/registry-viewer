@@ -9,5 +9,5 @@
 .text {
   padding: 0.5rem;
   text-align: center;
-  color: var(--pf-global--Color--light-200);
+  color: var(--pf-global--primary-color--light-100);
 }

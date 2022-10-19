@@ -1,11 +1,11 @@
 {
-  "title": "Devfile Registry",
-  "bannerTitle": "Welcome to the Devfile.io Community Devfile Registry",
-  "bannerBody": "Browse devfile stacks and samples",
-  "headerLinks": [{ "name": "Devfile.io", "link": "https://devfile.io/" }],
+  "title": "glroland.com Devfile Registry",
+  "bannerTitle": "Welcome to my super awesome Devfile Registry",
+  "bannerBody": "Validated and pre-baked stacks for developer consumption goodness",
+  "headerLinks": [{ "name": "MyPaaS", "link": "https://console-openshift-console.apps.ocp4.home.glroland.com" }],
   "footerLinks": [
     { "name": "Devfile.io", "link": "https://devfile.io/" },
     { "name": "GitHub", "link": "https://github.com/devfile/registry" }
   ],
-  "logo": "devfileLogo.svg"
+  "logo": "paas-logo.png"
 }
