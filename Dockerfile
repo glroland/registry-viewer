@@ -29,6 +29,8 @@ COPY --from=builder /app/package.json ./package.json
 COPY --from=builder --chown=nextjs:nodejs /app/config ./config
 COPY --from=builder --chown=nextjs:nodejs /app/webpage_info ./webpage_info
 
+RUN chown -R 1001:0 .
+
 USER nextjs
 
 EXPOSE 3000
